@@ -1,4 +1,4 @@
-# Khan OS - Enterprise AI Operating System Dashboard
+# ARS OS - Enterprise AI Operating System Dashboard
 
 A futuristic, enterprise-grade AI operating system dashboard built with React 18, TypeScript, TailwindCSS, and Framer Motion.
 
@@ -279,11 +279,11 @@ CMD ["npm", "run", "preview"]
 
 ## 📄 License
 
-This project is proprietary to Khan Productions. All rights reserved.
+This project is proprietary to ARS Productions. All rights reserved.
 
 ## 👨‍💼 Author
 
-**Khan Productions**  
+**ARS Productions**  
 Enterprise-Grade AI Solutions
 
 ---
